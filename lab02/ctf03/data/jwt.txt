@@ -1,0 +1,13 @@
+A suspicious JWT token was found in the application logs.
+
+Analyze the token and find the hidden flag.
+
+Token:
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiYWRtaW4iLCJyb2xlIjoiYWRtaW5pc3RyYXRvciIsImZsYWciOiJGTEFHe2p3dF9kZWNvZGVkfSJ9.signatureplaceholder
+
+Hint:
+A JWT usually consists of three parts:
+- header
+- payload
+- signature

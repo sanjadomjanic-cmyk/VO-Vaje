@@ -1,0 +1,4 @@
+[INFO] User login: john
+[INFO] User login: ana
+[WARNING] Failed login attempt: evil
+[ALERT] Suspicious activity detected from IP 192.168.1.66 FLAG{suspicious_ip}

@@ -1,0 +1,9 @@
+Hey Mark,
+
+Please don't forget, the new system password is:
+
+password123FLAG{weak_password}
+
+We will change it later.
+
+- Admin

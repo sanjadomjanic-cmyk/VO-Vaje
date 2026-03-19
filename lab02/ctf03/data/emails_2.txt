@@ -1,0 +1,9 @@
+
+
+Hey Mark,
+
+Previous password was leaked, the new system password is:
+
+The password is base64 encoded: YWRtaW4xMjM=
+
+- Admin
