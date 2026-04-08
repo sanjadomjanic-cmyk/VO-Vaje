@@ -2,3 +2,31 @@ Control ID,Control Description,Type,Risk Addressed,Implementation Effort,Verific
 C1,Enable MFA for VPN and SaaS access,Technical,R2;R6,Medium,Identity provider configuration
 C2,Security awareness training program,Organizational,R4,Low,Training attendance records
 C3,Network segmentation of critical systems,Technical,R1,High,Network diagram and firewall rules
+C4,Enable MFA for SaaS,Technical,R3,Low,Test login Method
+C5,Regular backup restore testing,Technical,R3,Low,Backup restore test report
+C6,Endpoint protection (EDR) deployment,Technical,R1;R7,Medium,EDR dashboard
+C7,Patch management for endpoints,Technical,R7,Medium,Patch reports
+C8,VPN access restricted with MFA,Technical,R6,Low,VPN login test
+C9,Access control review (least privilege),Organizational,R4,Low,Access review records
+
+Likelihood (1–5)
+1 = Very unlikely
+2 = Unlikely
+3 = Possible
+4 = Likely
+5 = Very likely
+
+Impact (1–5)
+1 = Negligible
+2 = Low
+3 = Medium
+4 = High
+5 = Critical
+
+Risk Score = Likelihood × Impact
+Score    	Priority
+1–5	      Low
+6–10     	Medium
+11–15	    High
+16–25   	Critical
+
