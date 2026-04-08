@@ -9,25 +9,5 @@ C7,Patch management for endpoints,Technical,R7,Medium,Patch reports
 C8,VPN access restricted with MFA,Technical,R6,Low,VPN login test
 C9,Access control review (least privilege),Organizational,R4,Low,Access review records
 
-Likelihood (1–5)
-1 = Very unlikely
-2 = Unlikely
-3 = Possible
-4 = Likely
-5 = Very likely
-
-Impact (1–5)
-1 = Negligible
-2 = Low
-3 = Medium
-4 = High
-5 = Critical
-
-Risk Score = Likelihood × Impact
-Score    	Priority
-1–5	      Low
-6–10     	Medium
-11–15	    High
-16–25   	Critical
 
 
